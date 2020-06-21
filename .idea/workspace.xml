@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81770335-3e53-4d8d-9c15-3af1a0a694a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboottest1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/Springboottest1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/SpringbootApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/controller/UserLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/controller/UserLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/controller/booksController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/controller/booksController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/adminorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/adminorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/books.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/books.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/nations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/nations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/press.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/press.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/types.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/userinfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/userinfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/writers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/entity/writers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/interceptor/sessionInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/interceptor/sessionInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/interceptor/userLoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/interceptor/userLoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/mapper/userMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/mapper/userMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/service/UserLoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/service/UserLoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/service/booksService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/service/booksService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/test/DelTagsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/test/DelTagsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/test/Single.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/test/Single.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/test/testArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kekee/book/test/testArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/springboottest1/Springboottest1ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/kekee/book/SpringbootApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/Springboottest1Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/controller/UserLoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/controller/booksController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/adminorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/books.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/messages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/nations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/orders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/press.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/types.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/userinfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/writers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/interceptor/sessionInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/interceptor/userLoginInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/mapper/userMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/service/UserLoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/service/booksService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/test/DelTagsUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/test/Single.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springboottest1/test/testArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generator/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/userMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/ee649b6dffd0d1eb103f174721d4ddcf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/testbackground.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/adminorder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/allorder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/images/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/images/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/loginError.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/myhome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/searcha.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/userLogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/springboottest1/Springboottest1ApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userLoginService</find>
+      <find>orderid</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dcDHhHE2GEr6gBpa1VcRAOxxuO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qscde\Desktop\final\java\springboottest1\src\main\resources\templates\images" />
+      <recent name="C:\Users\qscde\Desktop\final\java\springboottest1\src\main\resources\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springboottest1.entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qscde\Desktop\final\java\springboottest1\src\main\resources\static\images" />
+      <recent name="C:\Users\qscde\Desktop\final\java\springboottest1\src\main\resources\static" />
+      <recent name="C:\Users\qscde\Desktop\final\java\springboottest1\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboottest1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.kekee.book.SpringbootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81770335-3e53-4d8d-9c15-3af1a0a694a9" name="Default Changelist" comment="" />
+      <created>1559132591464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559132591464</updated>
+      <workItem from="1559132597196" duration="7568000" />
+      <workItem from="1559199095838" duration="7790000" />
+      <workItem from="1559218248652" duration="2223000" />
+      <workItem from="1559301924418" duration="8889000" />
+      <workItem from="1559721007745" duration="33557000" />
+      <workItem from="1559894978371" duration="8128000" />
+      <workItem from="1560167548109" duration="21952000" />
+      <workItem from="1560415256842" duration="1363000" />
+      <workItem from="1560667829332" duration="612000" />
+      <workItem from="1560737666187" duration="1910000" />
+      <workItem from="1560741308515" duration="5981000" />
+      <workItem from="1592715437954" duration="854000" />
+      <workItem from="1592716337594" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="23" key="#Springboottest1Application_(1)" timestamp="1592716131301">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state x="191" y="23" key="#Springboottest1Application_(1)/0.23.1152.646@0.23.1152.646" timestamp="1592716131301" />
+    <state x="40" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592716319649">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state x="40" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1152.646@0.23.1152.646" timestamp="1592716319649" />
+    <state x="305" y="68" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592716059257">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state x="305" y="68" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1152.646@0.23.1152.646" timestamp="1592716059257" />
+    <state width="1110" height="411" key="GridCell.Tab.0.bottom" timestamp="1592716328334">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1110" height="411" key="GridCell.Tab.0.bottom/0.23.1152.646@0.23.1152.646" timestamp="1592716328334" />
+    <state width="1110" height="411" key="GridCell.Tab.0.center" timestamp="1592716328332">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1110" height="411" key="GridCell.Tab.0.center/0.23.1152.646@0.23.1152.646" timestamp="1592716328332" />
+    <state width="1110" height="411" key="GridCell.Tab.0.left" timestamp="1592716328331">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1110" height="411" key="GridCell.Tab.0.left/0.23.1152.646@0.23.1152.646" timestamp="1592716328331" />
+    <state width="1110" height="411" key="GridCell.Tab.0.right" timestamp="1592716328333">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1110" height="411" key="GridCell.Tab.0.right/0.23.1152.646@0.23.1152.646" timestamp="1592716328333" />
+    <state width="1110" height="411" key="GridCell.Tab.1.bottom" timestamp="1592716328336">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1110" height="411" key="GridCell.Tab.1.bottom/0.23.1152.646@0.23.1152.646" timestamp="1592716328336" />
+    <state width="1110" height="411" key="GridCell.Tab.1.center" timestamp="1592716328335">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1110" height="411" key="GridCell.Tab.1.center/0.23.1152.646@0.23.1152.646" timestamp="1592716328335" />
+    <state width="1110" height="411" key="GridCell.Tab.1.left" timestamp="1592716328335">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1110" height="411" key="GridCell.Tab.1.left/0.23.1152.646@0.23.1152.646" timestamp="1592716328335" />
+    <state width="1110" height="411" key="GridCell.Tab.1.right" timestamp="1592716328336">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state width="1110" height="411" key="GridCell.Tab.1.right/0.23.1152.646@0.23.1152.646" timestamp="1592716328336" />
+    <state x="67" y="23" key="SettingsEditor" timestamp="1592716080238">
+      <screen x="0" y="23" width="1152" height="646" />
+    </state>
+    <state x="67" y="23" key="SettingsEditor/0.23.1152.646@0.23.1152.646" timestamp="1592716080238" />
+  </component>
+</project>
